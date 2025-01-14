@@ -102,7 +102,7 @@ Delete an existing short URL using the methodDELETE
 DELETE /shorten/abc123
 ```
 
-## Get URL Statistics
+### Get URL Statistics
 Get statistics for a short URL using the methodGET
 ```json	
 GET /shorten/abc123/stats
@@ -120,7 +120,7 @@ Response:
 }
 ```
 
-## Get All Short URLs
+### Get All Short URLs
 Get all short URLs using the methodGET
 
 ```json
